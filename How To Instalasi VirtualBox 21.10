@@ -3,8 +3,8 @@ Oracle VM VirtualBox is a virtualization software, which can be used to run any 
 ==== Instalasi VirtualBox ====
 
   # sudo su
-  # apt update
-  # apt install virtualbox
+  # sudo apt update
+  # sudo apt install virtualbox
 
 =====================================================================================================================================================================
 
